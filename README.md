@@ -1,6 +1,6 @@
 # I'm Favour Akinnifesi <3
 
-![I love pink.](<iframe src="https://assets.pinterest.com/ext/embed.html?id=4574037116083514" height="531" width="600" frameborder="0" scrolling="no" ></iframe>)
+![I love pink.](25473554138063869)
 
 ## -About Me-
 
