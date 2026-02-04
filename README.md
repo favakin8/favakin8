@@ -1,24 +1,26 @@
-# I'm Favour Akinnifesi 👋
+# I'm Favour Akinnifesi <3
 
-![Banner Image](your_banner_image_url_here)
+![I love pink.](<iframe src="https://assets.pinterest.com/ext/embed.html?id=4574037116083514" height="531" width="600" frameborder="0" scrolling="no" ></iframe>)
 
 ## -About Me-
 
 I'm currently an IB high school student from Italy. I am still learning and experimenting, but so far I have intermediate experience in **python**. I like making projects to help students like my self. :)
+I take IB Art, Physics, and English higher level, and Math AA, Economics, and I'm anticipating French B. 
 I am hoping to become a machine learning engineer, particularly something to do with astrophysics.
-- 🌱 Currently learning: **Machine Learning modules**
-- 🔭 Working on: **Recommender systems, based on user input**
-- 🌍 Languages: **Python, html**
-- 📫 How to reach me: **favieakin8@gmail.com**
-- ⚡ Fun fact: **I'm super into space, visual art, and writing. Sometimes I like to browse around in NASA's space data in my free time, and I also sketch a bit.**
+  - 🌱 Currently learning: **Machine Learning modules**
+  - 🔭 Working on: **Recommender systems, based on user input**
+  - 🌍 Languages: **Python, html**
+  - 📫 How to reach me: **favieakin8@gmail.com**
+  - ⚡ Fun fact: **I'm super into space, visual art, and writing. Sometimes I like to browse around in NASA's space data in my free time, and I also sketch a bit.**
 - I'm also an AVID fan of Avatar the Last Airbender :)
 
-## Featured Projects 💻
+## Featured Projects
 
 ### Job Reccommender ---
 
 
-My **Job Reccommender** program is a program that reccommends a relevant job to a user based on said user's input built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+My **Job Reccommender** program is a program that reccommends a relevant job to a user based on said user's input built with: 
+**Pandas,	NLTK (WordNet), TF-IDF, Cosine similarity, scikit-learn,	Regex, user interaction**. This project demonstrates my ability to use beginner level machine learning concepts effciently to create something that helps others. You can check out the repository [here](project_1_repository_link).
 
 ### [Project 2 Title](project_2_link)
 
