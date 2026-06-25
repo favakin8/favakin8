@@ -19,7 +19,7 @@ I am hoping to become a machine learning engineer, particularly something to do 
 ### Job Reccommender ---
 
 My **Job Reccommender** program is a program that reccommends a relevant job to a user based on said user's input built with: 
-**Pandas,	NLTK (WordNet), TF-IDF, Cosine similarity, scikit-learn,	Regex, user interaction**. This project demonstrates my ability to use beginner level machine learning concepts effciently to create something that helps others. You can check out the repository [here](project_1_repository_link).
+**Pandas,	NLTK (WordNet), TF-IDF, Cosine similarity, scikit-learn,	Regex, user interaction**. This project demonstrates my ability to use beginner level machine learning concepts effciently to create something that helps others. You can check out the repository [here](https://github.com/favakin8/Job-Recommender-).
 
 ## Get in Touch:
 
